@@ -16,7 +16,7 @@ Atuo como Analista de Suporte Pleno na Multipedidos, com foco em Desenvolvimento
 
 Atualmente estudo Java, JavaScript, SQL e AWS.
 
-Atualmente estou desenvolvendo:\
+Atualmente estou desenvolvendo:
 - Projeto Full Stack (front + backend + banco de dados)
 - Estudos de Laravel
 - Estudos de Angular
