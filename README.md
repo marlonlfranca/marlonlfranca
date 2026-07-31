@@ -14,22 +14,16 @@ Here are some ideas to get you started:
 -->
 Atuo como Analista de Suporte Pleno na Multipedidos, com foco em Desenvolvimento de Software, Automação, APIs e Engenharia de Qualidade.
 
-Atualmente estudo:\
-• Java\
-• JavaScript\
-• SQL\
-• AWS
+Atualmente estudo Java, JavaScript, SQL e AWS.
 
-Atualmente estou desenvolvendo:
-
-- Projeto Full Stack
+Atualmente estou desenvolvendo:\
+- Projeto Full Stack (front + backend + banco de dados)
 - Estudos de Laravel
 - Estudos de Angular
-- Estudos SQL
 
 Tenho conhecimento em:
-- Controle e versionamento de código
-- Linux
-- Ambientes AWS
-- Docker
-- CI/CD
+- Controle e versionamento de código;
+- Linux;
+- Ambientes AWS;
+- Docker;
+- CI/CD.
