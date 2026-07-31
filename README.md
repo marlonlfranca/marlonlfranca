@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 Atuo como Analista de Suporte Pleno na Multipedidos, com foco em Desenvolvimento de Software, Automação, APIs e Engenharia de Qualidade.
 
-Atualmente estudo:
+Atualmente estudo:\
 • Java\
 • JavaScript\
 • SQL\
