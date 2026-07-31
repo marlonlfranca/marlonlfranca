@@ -1,4 +1,5 @@
 ## Olá! 👋
+### Eu sou o Marlon!
 
 <!--
 Here are some ideas to get you started:
@@ -12,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-Atualmente sou Analista de Suporte Pleno, com interesse em Desenvolvimento de Software, Automação, APIs e Engenharia de Qualidade.
+Atuo como Analista de Suporte Pleno na Multipedidos, com foco em Desenvolvimento de Software, Automação, APIs e Engenharia de Qualidade.
 
 Atualmente estudo:
-• Java
-• JavaScript
-• SQL
-• AWS
+• Java\
+• JavaScript\
+• SQL\
+• AWS\
 
 Atualmente estou desenvolvendo:
 
