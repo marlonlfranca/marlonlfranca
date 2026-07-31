@@ -1,5 +1,4 @@
-## Olá! 👋
-### Eu sou o Marlon!
+## Olá! Eu sou o Marlon! 👋
 
 <!--
 Here are some ideas to get you started:
@@ -19,7 +18,7 @@ Atualmente estudo:
 • Java\
 • JavaScript\
 • SQL\
-• AWS\
+• AWS
 
 Atualmente estou desenvolvendo:
 
