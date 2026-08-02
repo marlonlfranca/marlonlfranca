@@ -1,24 +1,45 @@
-## Olá! Eu sou o Marlon! 👋
+# Olá! Eu sou o Marlon 👋
 
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Analista de Suporte Pleno com foco em transição para Desenvolvimento de Software.
 
--->
-Atuo como **Analista de Suporte Pleno na Multipedidos**, com foco em **Desenvolvimento de Software, Automação, APIs e Engenharia de Qualidade**.
+Atualmente desenvolvo automações, integrações com APIs e sistemas internos para aumentar a produtividade da equipe, enquanto estudo desenvolvimento Full Stack com foco em JavaScript, Java e bancos de dados.
 
-Atualmente estudo Java, JavaScript, SQL e AWS.
+## 🚀 Projetos
 
-Estou desenvolvendo:
-- Projetos Full Stack (front + backend + banco de dados)
-- Estudos de Laravel
-- Estudos de Angular
+- Sistema de Gestão de Pedidos (Full Stack)
+- Ferramentas internas para automação do suporte
+- Integrações com APIs REST
 
-Tenho conhecimento em Controle e versionamento de código, Linux, AWS, Docker e CI/CD.
+## 📚 Atualmente estudando
+
+- JavaScript
+- Java
+- Laravel
+- Angular
+- SQL
+- AWS
+
+## 💻🛠 Tecnologias e Ferramentas
+
+• JavaScript
+• Java
+• SQL
+• HTML/CSS
+
+⚙️ Ferramentas
+
+• Git & GitHub
+• Docker
+• Linux
+• AWS
+
+📦 Conceitos
+
+• APIs REST
+• CRUD
+• CI/CD
+• Versionamento de código
+
+## 🎯 Objetivo
+
+Construir aplicações e automações que resolvam problemas reais, com código simples, organizado e de fácil manutenção.
