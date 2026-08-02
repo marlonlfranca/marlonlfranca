@@ -42,4 +42,4 @@ Atualmente desenvolvo automações, integrações com APIs e sistemas internos p
 
 ## 🎯 Objetivo
 
-Construir aplicações e automações que resolvam problemas reais, com código simples, organizado e de fácil manutenção.
+Construir aplicações que resolvam problemas reais e automatizar o que for possível de forma organizada e de fácil manutenção.
