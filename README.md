@@ -2,7 +2,7 @@
 
 Analista de Suporte Pleno com foco em transição para Desenvolvimento de Software.
 
-Atualmente desenvolvo automações, integrações com APIs e sistemas internos para aumentar a produtividade da equipe, enquanto estudo desenvolvimento Full Stack com foco em JavaScript, Java e bancos de dados.
+Atualmente desenvolvo sistemas internos e automações integradas à APIs para aumentar a produtividade da equipe, enquanto estudo desenvolvimento Full Stack com foco em JavaScript, Java e bancos de dados.
 
 ## 🎯 Objetivo
 
