@@ -4,6 +4,11 @@ Analista de Suporte Pleno com foco em transição para Desenvolvimento de Softwa
 
 Atualmente desenvolvo automações, integrações com APIs e sistemas internos para aumentar a produtividade da equipe, enquanto estudo desenvolvimento Full Stack com foco em JavaScript, Java e bancos de dados.
 
+## 🎯 Objetivo
+
+Construir aplicações que resolvam problemas reais e automatizar o que for possível de forma organizada e de fácil manutenção.
+
+
 ## 🚀 Projetos
 
 - Sistema de Gestão de Pedidos (Full Stack)
@@ -40,6 +45,3 @@ Atualmente desenvolvo automações, integrações com APIs e sistemas internos p
 • CI/CD
 • Versionamento de código
 
-## 🎯 Objetivo
-
-Construir aplicações que resolvam problemas reais e automatizar o que for possível de forma organizada e de fácil manutenção.
