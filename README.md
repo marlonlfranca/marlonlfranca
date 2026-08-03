@@ -39,7 +39,7 @@ Construir aplicações que resolvam problemas reais e automatizar o que for poss
 📦 Conceitos
 
 • APIs REST
-• CRUD
+• Clean Code
 • CI/CD
 • Versionamento de código
 
