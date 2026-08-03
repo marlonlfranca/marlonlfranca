@@ -18,7 +18,7 @@ Construir aplicações que resolvam problemas reais e automatizar o que for poss
 ## 📚 Atualmente estudando
 
 - JavaScript
-- Java
+- PHP
 - Laravel
 - Angular
 - SQL
@@ -28,12 +28,10 @@ Construir aplicações que resolvam problemas reais e automatizar o que for poss
 
 • JavaScript
 • Java
+• PHP
 • SQL
 • HTML/CSS
-
-⚙️ Ferramentas
-
-• Git & GitHub
+• Git | GitHub | GitLab
 • Docker
 • Linux
 • AWS
