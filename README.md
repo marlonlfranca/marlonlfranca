@@ -1,19 +1,48 @@
-# Olá! Eu sou o Marlon 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&heigth=120&section=header"/>
 
-Analista de Suporte Pleno com foco em transição para Desenvolvimento de Software.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Marlon!)](https://git.io/typing-svg)
 
-Atualmente desenvolvo sistemas internos e automações integradas à APIs para aumentar a produtividade da equipe, enquanto estudo desenvolvimento Full Stack com foco em JavaScript, Java e bancos de dados.
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marlonlfranca&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)
+<hr>
+
+## Tecnologias e Ferramentas
+<div style="display: inline_block" align= "center"><br>
+
+_• HTML5
+• CSS3
+• Javascript
+• PHP
+• Git
+• Python
+• MySQL
+• Linux
+• AWS_
+
+
+  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />      
+  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />        
+  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  </div>
+
 
 ## 🎯 Objetivo
 
 Construir aplicações que resolvam problemas reais e automatizar o que for possível de forma organizada e de fácil manutenção.
-
+<br><br>
 
 ## 🚀 Projetos
 
-- Sistema de Gestão de Pedidos (Full Stack)
-- Ferramentas internas para automação do suporte
-- Integrações com APIs REST
+- [Gestor de Pedidos - Desenvolvimento full stack](https://github.com/marlonlfranca/gestorDePedidos)
+- [Análise de Churn - Exploração de dados](https://github.com/marlonlfranca/analise-churn)
+- [PC Monitor - Monitoramento de infraestrutura](https://github.com/marlonlfranca/pc_monitor)
+<br><br>
+
 
 ## 📚 Atualmente estudando
 
@@ -23,23 +52,21 @@ Construir aplicações que resolvam problemas reais e automatizar o que for poss
 - Angular
 - SQL
 - AWS
+<br><br>
 
-## 💻🛠 Tecnologias e Ferramentas
 
-• JavaScript
-• Java
-• PHP
-• SQL
-• HTML/CSS
-• Git | GitHub | GitLab
-• Docker
-• Linux
-• AWS
-
-📦 Conceitos
+## 📦 Conhecimentos e conceitos praticados
 
 • APIs REST
 • Clean Code
 • CI/CD
 • Versionamento de código
+• Segurança da informação
+• DevOps
+<br><br>
 
+
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/marlonlfranca/)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
