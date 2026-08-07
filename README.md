@@ -6,7 +6,7 @@
 
 ## 🎯 Objetivo
 
-Construir aplicações que resolvam problemas reais e automatizar o que for possível de forma organizada e de fácil manutenção.
+Construir aplicações que resolvam problemas reais. Automatizar o que for possível.
 <hr>
 
 <br><br>
@@ -39,9 +39,9 @@ _• HTML5
 
 
 ### Stats
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=marlonlfranca&show_icons=true&layout=compact&theme=transparent&hide=jupyter%20notebook&card_width=1150px)](https://github.com/stats-organization/github-stats-extended)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=marlonlfranca&show_icons=true&layout=compact&theme=transparent&hide=jupyter%20notebook&card_width=1150px&hide_border=true&title_color=00bfbf)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marlonlfranca&bg_color=0d1117&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true&height=200&days=15&custom_title=My%20recent%20activity)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marlonlfranca&bg_color=0d1117&color=00bfbf&line=07e9a5&point=0a855c&area=true&line=00bfbf&hide_border=true&height=200&days=15&custom_title=Activity%20in%20the%20last%2015%20days&area_color=00bfbf)
 <hr>
 
 
